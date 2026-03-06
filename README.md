@@ -86,7 +86,6 @@ result = chain([
 
 ### 3. Critical Learning Principles ⚖️
 
-**Shen's Teaching (Written in AGENTS.md):**
 
 > "Don't learn blindly, evaluate critically,
 > first analyze if your own architecture needs changes,
